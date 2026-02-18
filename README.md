@@ -1,6 +1,25 @@
 # ♻️ Reciclo
 
+---
+
+## 👥 Team Members
+
+- Mostafa Ahmed  
+- Maryam Ayman  
+- Fady Ayman  
+- Rawan Abdelhamid  
+- Nour Hassen  
+
+---
+
+## 🎓 Instructor
+
+**Instructor Name:** Sama Yasser
+
+---
+
 ## 📌 Project Overview
+
 Reciclo is a mobile application and website specifically designed to facilitate recycling and the effective utilization of all types of waste materials.
 
 The platform allows users to request a pickup agent to collect their recyclable waste. In return, users receive either financial compensation or reward points that can be redeemed through approved outlets and program partners.
@@ -33,13 +52,3 @@ The scope includes:
 - Data tracking and reporting for performance and environmental impact  
 
 The platform focuses on creating a seamless user experience while ensuring operational efficiency and scalability for future expansion.
-
----
-
-## 👥 Team Members
-
-- Mostafa Ahmed  
-- Maryam Ayman  
-- Fady Ayman  
-- Rawan Abdelhamid  
-- Nour Hassen  
