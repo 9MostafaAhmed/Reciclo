@@ -9,6 +9,7 @@
 - Fady Ayman  
 - Rawan Abdelhamid  
 - Nour Hassen  
+- Manar Mosbah  
 
 ---
 
@@ -52,3 +53,32 @@ The scope includes:
 - Data tracking and reporting for performance and environmental impact  
 
 The platform focuses on creating a seamless user experience while ensuring operational efficiency and scalability for future expansion.
+
+---
+
+## Project Plan (5 Weeks)
+
+### Week 1 — Research & Planning
+- Conduct research about recycling systems and existing solutions  
+- Define project goals and requirements  
+- Create initial concept and project structure  
+
+### Week 2 — UX Research & User Flow
+- Identify target users and their needs  
+- Create user journeys and user flows  
+- Plan the overall application structure  
+
+### Week 3 — UI Design
+- Design wireframes for the main screens  
+- Create high-fidelity UI designs  
+- Define visual style and design system  
+
+### Week 4 — Development & Integration
+- Start development of the mobile app and web platform  
+- Implement core features such as user accounts and pickup requests  
+- Integrate AI-based waste identification concept  
+
+### Week 5 — Testing & Final Adjustments
+- Test usability and functionality  
+- Fix issues and improve user experience  
+- Prepare the final project presentation
