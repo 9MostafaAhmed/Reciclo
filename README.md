@@ -19,6 +19,14 @@
 
 ---
 
+## 🔗 Project Links
+
+- 🎨 **[View Figma Design](https://www.figma.com/design/FToFhx90GKWgHqCpY09QtO/Reciclo?node-id=1000-1848&t=xox4sZD4EQPbl4bu-1)**
+- 📑 **[View Project Presentation](https://www.figma.com/design/tWKHsWQaYmht6X6lRKLggB/Reciclo_final?node-id=0-1&t=LvvPJF4hRzAvdL2E-1)**
+- 📁 **[Google Drive](https://drive.google.com/drive/folders/1mIkLyA0EFl4Bwhg6mFjEltUi4oo05ner?usp=drive_link)**
+
+---
+
 ## 📌 Project Overview
 
 Reciclo is a mobile application and website specifically designed to facilitate recycling and the effective utilization of all types of waste materials.
@@ -26,11 +34,6 @@ Reciclo is a mobile application and website specifically designed to facilitate 
 The platform allows users to request a pickup agent to collect their recyclable waste. In return, users receive either financial compensation or reward points that can be redeemed through approved outlets and program partners.
 
 The application stands out from competitors through its simplicity, user-friendly experience, and a range of advanced features. It also integrates Artificial Intelligence capabilities to promote smart consumption, identify waste types, and optimize recycling processes efficiently.
-
-## 🔗 Project Links
-
-- 🎨 **[View Figma Design](https://www.figma.com/design/FToFhx90GKWgHqCpY09QtO/Reciclo?node-id=1000-1848&t=xox4sZD4EQPbl4bu-1)**
-- 📑 **[View Project Presentation](https://www.figma.com/design/tWKHsWQaYmht6X6lRKLggB/Reciclo_final?node-id=0-1&t=LvvPJF4hRzAvdL2E-1)**
 
 ---
 
